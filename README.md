@@ -7,7 +7,7 @@ SpriterNator is a Unity extension that simplifies the process of generating and 
 
 This tool simplifies the process of generating and managing sprite animations and sprite libraries. It helps reduce development time, allowing you to focus on the creative aspects of game development.
 
-This package is compatible with Unity version 2022.3.20f1. All older versions are untested.
+*This package is compatible with Unity version 2022.3.20f1. All older versions are untested.*
 
 ---
 
