@@ -5,9 +5,9 @@ SpriterNator is a Unity extension that simplifies the process of generating and 
 ---
 
 # Table of Contents
-- [Important Links](#links)
-- [Tool Features](#tool-features)
-- [Usage Instructions](#usage-instructions)
+- [Links](#links)
+- [Features](#tool-features)
+- [Instructions](#usage-instructions)
 
 ---
 
@@ -16,7 +16,6 @@ SpriterNator is a Unity extension that simplifies the process of generating and 
 - [GitBook](https://oops-i-devd.gitbook.io/christinec-dev)
 - [Join My Discord](https://discord.gg/4N6b4bkC8h)
 - [Support Me](https://ko-fi.com/christinedevs)
-- 
 
 ---
 
@@ -37,14 +36,14 @@ Streamline the organization of sprites into categories and labels by creating Sp
 # Usage Instructions
 
 ## SECTIONS
-- [SpriteSheet Preparations](spritesheet-preparations)
-- [Download & Install](downloading-the-package-and-adding-it-to-project)
-- [Animation Properties](animation-properties)
-- [Creating Animations](creating-animations)
-- [Exporting Animations](exporting-animations)
-- [Creating Sprite Libraries](creating-sprite-libraries)
-- [Exporting & Importing Animation Lists](exporting-and-importing-animation-lists)
-
+- [SpriteSheet Preparations](#spritesheet-preparations)
+- [Download & Install](#downloading-the-package-and-adding-it-to-project)
+- [Animation Properties](#animation-properties)
+- [Creating Animations](#creating-animations)
+- [Exporting Animations](#exporting-animations)
+- [Creating Sprite Libraries](#creating-sprite-libraries)
+- [Exporting & Importing Animation Lists](#exporting-and-importing-animation-lists)
+  
 ## SPRITESHEET PREPARATIONS
 - Make sure that you split your sprite sheets.
 - When splitting the sheets, ensure that each frame is cropped out correctly.
