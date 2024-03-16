@@ -1,6 +1,8 @@
 # SpriterNator: Unity Sprite Animation and Library Tool
 SpriterNator is a Unity extension that simplifies the process of generating and managing sprite animations and sprite libraries. This tool addresses makes it easier to create, organize, and export sprite-based assets within the Unity ecosystem. SpriterNator helps reduce development time, allowing you to focus on the creative aspects of game development.
 
+[Features](#tool-features)
+[Features](#usage-instructions)
 ---
 
 # Tool Features
@@ -18,4 +20,5 @@ Streamline the organization of sprites into categories and labels by creating Sp
 ---
 
 # Usage Instructions
+
 
