@@ -60,7 +60,8 @@ Streamline the organization of sprites into categories and labels by creating Sp
 
 
 ## DOWNLOADING THE PACKAGE AND ADDING IT TO PROJECT
-- Download the package from the [Unity Store](#links). Once added to your project, you should be able to see it in your project via Tools/SpriterNator.
+- Download the package from the Package folder in the repository or from the [Unity Store](#links).
+- Once added to your project, you should be able to see it in your project via Tools/SpriterNator.
 - Back to [top](#sections).
   
 ![3](https://github.com/christinec-dev/SpriterNator/assets/87696858/cd1b1840-07e4-4436-b879-7047ef951994)
