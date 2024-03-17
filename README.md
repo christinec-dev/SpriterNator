@@ -19,10 +19,11 @@ This tool simplifies the process of generating and managing sprite animations an
 ---
 
 # Links
-- [Unity Package](https://assetstore.unity.com/packages/slug/279795)
+- [Download Package](https://github.com/christinec-dev/SpriterNator/tree/main/Package)
 - [GitBook](https://oops-i-devd.gitbook.io/christinec-dev)
 - [Join My Discord](https://discord.gg/4N6b4bkC8h)
 - [Support Me](https://ko-fi.com/christinedevs)
+- [Unity Package](https://assetstore.unity.com/packages/slug/279795)
 
 ---
 
