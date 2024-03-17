@@ -51,6 +51,7 @@ Streamline the organization of sprites into categories and labels by creating Sp
 - [Exporting Animations](#exporting-animations)
 - [Creating Sprite Libraries](#creating-sprite-libraries)
 - [Exporting & Importing Animation Lists](#exporting-and-importing-animation-lists)
+- [Sprite Sheet Swapping](#reusing-animations)
   
 ## SPRITESHEET PREPARATIONS
 - Make sure that you split your sprite sheets.
@@ -62,6 +63,7 @@ Streamline the organization of sprites into categories and labels by creating Sp
 
 ## DOWNLOADING THE PACKAGE AND ADDING IT TO PROJECT
 - [Download](https://github.com/christinec-dev/SpriterNator/tree/main/Package) the package.
+- With your project open, double click the package file to add it to your project.
 - Once added to your project, you should be able to see it in your project via Tools/SpriterNator.
 - Back to [top](#sections).
   
@@ -83,6 +85,7 @@ Streamline the organization of sprites into categories and labels by creating Sp
 - When creating an animation, enter the first frame, last frame, and frame rate of your animation. Also state wether or not it should loop.
 - You can find the first frame value on your spritesheet at the end of the frame naming "_x".
 - You can find the last frame value on your spritesheet at the end of the frame naming "_x".
+- The frame rate is added automatically, but you can change it if you want.
 - Back to [top](#sections).
 
 ![6](https://github.com/christinec-dev/SpriterNator/assets/87696858/f605b1c2-2f22-4aaa-8e93-aeb185c78f73)
@@ -120,5 +123,11 @@ Streamline the organization of sprites into categories and labels by creating Sp
 - Back to [top](#sections).
   
 ![18](https://github.com/christinec-dev/SpriterNator/assets/87696858/14b3d25c-ef8b-4257-ba4e-09046145651a)
+
+## REUSING ANIMATIONS
+- If you have similar spritesheets, and you want to create the same animations for Character_2 as you did for Character_1, then you can simply just drag in your new spritesheet into the properties panel, and change your naming and/or save location of the asset.
+- Simply click "CREATE ANIMATIONS", and your new character will have the same animations!
+- This assumes that they have the same spritesheet and animation layout.
+
 ![19](https://github.com/christinec-dev/SpriterNator/assets/87696858/e27f841c-99d2-4672-83e9-5c16f7402d98)
 ![20](https://github.com/christinec-dev/SpriterNator/assets/87696858/6515e0f4-9c93-445f-baf1-28e7900ad721)
