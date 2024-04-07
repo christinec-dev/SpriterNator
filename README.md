@@ -23,7 +23,7 @@ This tool simplifies the process of generating and managing sprite animations an
 - [GitBook](https://oops-i-devd.gitbook.io/christinec-dev)
 - [Join My Discord](https://discord.gg/4N6b4bkC8h)
 - [Support Me](https://ko-fi.com/christinedevs)
-- [Unity Package](https://assetstore.unity.com/packages/slug/279795)
+- [Unity Package](https://christinec-dev.itch.io/spriternator)
 
 ---
 
