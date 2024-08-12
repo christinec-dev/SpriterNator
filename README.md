@@ -11,6 +11,8 @@ This tool simplifies the process of generating and managing sprite animations an
 - **Licensing:** This tool falls under the GNU General Public License.
 ---
 
+Join my Discord if you want to give feedback on this plugin or to help me update it: https://discord.gg/FnD8355w
+
 # Table of Contents
 - [Links](#links)
 - [Features](#tool-features)
